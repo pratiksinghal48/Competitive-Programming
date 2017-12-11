@@ -1,4 +1,4 @@
-package algorithms.warmup.BirthdayCakeCandle;
+package warmup.BirthdayCakeCandle;
 
 import java.util.Arrays;
 import java.util.Collection;

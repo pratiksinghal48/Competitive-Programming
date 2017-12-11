@@ -1,4 +1,4 @@
-package algorithms.warmup.BirthdayCakeCandle;
+package warmup.BirthdayCakeCandle;
 
 import java.io.InputStream;
 import java.io.OutputStream;
